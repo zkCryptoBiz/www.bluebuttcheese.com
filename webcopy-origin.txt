@@ -1,0 +1,204 @@
+Uri: https://fonts.googleapis.com/css2?family=Bakbak+One&amp;family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bakbakone/v9/zOL54pXAl6RI-p_ardnuycQ.ttf
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\s\bakbakone\v9\zOL54pXAl6RI-p_ardnuycQ.ttf
+Content Type: font/ttf
+
+Uri: https://www.bluebuttcheese.com/
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\index.htm
+Content Type: text/html
+
+Uri: https://www.bluebuttcheese.com/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.bluebuttcheese.com/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://www.bluebuttcheese.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.bluebuttcheese.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.bluebuttcheese.com/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.bluebuttcheese.com/assets/images/abt/dex.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\abt\dex.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/abt/dextools.svg
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\abt\dextools.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bluebuttcheese.com/assets/images/abt/jupiter-ag-jup-logo.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\abt\jupiter-ag-jup-logo.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/abt/rad.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\abt\rad.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/1.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\1.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/2.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\2.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/3.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\3.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/4.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\4.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/5.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\5.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/6.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\6.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/banner/hero-slider/7.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\banner\hero-slider\7.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/copy.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\copy.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/3-01.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\3-01.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/gif/2.gif
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\gif\2.gif
+Content Type: image/gif
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/gif/3.gif
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\gif\3.gif
+Content Type: image/gif
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/gif/6.gif
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\gif\6.gif
+Content Type: image/gif
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/gif/8.gif
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\gif\8.gif
+Content Type: image/gif
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/gif/9.gif
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\gif\9.gif
+Content Type: image/gif
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/gif/BANNER-DEX.gif
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\gif\BANNER-DEX.gif
+Content Type: image/gif
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/good.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\good.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/got.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\got.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/hi.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\hi.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/data/rekt.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\data\rekt.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/dexscreener.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\dexscreener.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/dextools_logo.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\dextools_logo.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/logo/logo.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/logo/preloader.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\logo\preloader.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/telegram.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\telegram.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/images/twitter.png
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\images\twitter.png
+Content Type: image/png
+
+Uri: https://www.bluebuttcheese.com/assets/js/all.min.js
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\js\all.min.js
+Content Type: text/javascript
+
+Uri: https://www.bluebuttcheese.com/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\js\aos.js
+Content Type: text/javascript
+
+Uri: https://www.bluebuttcheese.com/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://www.bluebuttcheese.com/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\js\custom.js
+Content Type: text/javascript
+
+Uri: https://www.bluebuttcheese.com/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\js\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://www.bluebuttcheese.com/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://www.bluebuttcheese.com/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.bluebuttcheese.com/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.bluebuttcheese.com/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.bluebuttcheese.com/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.bluebuttcheese.com/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.bluebuttcheese.com/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.bluebuttcheese.com\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
